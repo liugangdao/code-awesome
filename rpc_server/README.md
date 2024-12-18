@@ -6,7 +6,7 @@
 3. 协议
 4. 网络传输
 
-![rpc调用过程](https://github.com/liugangdao/code-awesome/rpc-server/doc/rpc.png)
+![rpc调用过程](https://github.com/liugangdao/code-awesome/blob/master/rpc_server/doc/rpc.png?raw=true)
 
 
 ## 真正工业级别rpc
